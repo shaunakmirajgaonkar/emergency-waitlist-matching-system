@@ -1,0 +1,21 @@
+candidate_id,service_line,urgency_tier,travel_minutes,readiness_score,verified,available_today,earliest_date,contactable,prior_declines,last_updated
+C-2001,Cardiology,Emergency,55,92,1,1,2026-08-26,1,0,2026-08-25
+C-2002,Cardiology,High,85,88,1,1,2026-08-26,1,1,2026-08-25
+C-2003,Cardiology,Standard,110,78,1,1,2026-08-26,1,0,2026-08-24
+C-2004,Orthopedics,High,95,84,1,1,2026-08-26,1,0,2026-08-25
+C-2005,Orthopedics,Standard,130,68,1,1,2026-08-27,1,2,2026-08-25
+C-2006,Neurology,Emergency,60,90,1,1,2026-08-26,1,0,2026-08-25
+C-2007,Neurology,High,140,76,1,1,2026-08-27,1,1,2026-08-24
+C-2008,Neurology,Routine,170,62,1,0,2026-08-29,1,0,2026-08-25
+C-2009,Oncology,Emergency,45,94,1,1,2026-08-26,1,0,2026-08-25
+C-2010,Oncology,High,90,81,1,1,2026-08-27,1,1,2026-08-25
+C-2011,General Medicine,High,160,73,1,1,2026-08-27,1,0,2026-08-25
+C-2012,General Medicine,Standard,180,64,1,1,2026-08-27,1,0,2026-08-25
+C-2013,Pediatrics,Standard,75,80,1,1,2026-08-27,1,0,2026-08-25
+C-2014,Pediatrics,Routine,140,61,1,1,2026-08-28,1,2,2026-08-24
+C-2015,Cardiology,Emergency,130,96,0,1,2026-08-26,1,0,2026-08-25
+C-2016,Orthopedics,High,100,58,1,1,2026-08-26,1,0,2026-08-25
+C-2017,Neurology,Standard,100,87,1,1,2026-08-26,0,0,2026-08-24
+C-2018,General Medicine,High,175,91,1,1,2026-08-27,1,3,2026-08-23
+C-2019,Pediatrics,Emergency,65,93,1,1,2026-08-27,1,0,2026-08-25
+C-2020,Cardiology,Routine,60,70,1,1,2026-08-26,1,1,2026-08-25

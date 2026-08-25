@@ -1,0 +1,11 @@
+slot_id,service_line,urgency_tier,slot_date,slot_start,max_travel_minutes,readiness_required,verification_required
+SL-1001,Cardiology,Emergency,2026-08-26,09:00,90,75,1
+SL-1002,Orthopedics,High,2026-08-26,11:30,120,70,1
+SL-1003,Neurology,Standard,2026-08-26,14:00,150,60,1
+SL-1004,Oncology,Emergency,2026-08-27,08:30,75,80,1
+SL-1005,General Medicine,High,2026-08-27,10:00,180,65,1
+SL-1006,Pediatrics,Standard,2026-08-27,15:00,120,55,1
+SL-1007,Cardiology,High,2026-08-28,09:30,100,70,1
+SL-1008,Orthopedics,Routine,2026-08-28,13:00,180,50,1
+SL-1009,Neurology,High,2026-08-28,16:00,135,72,1
+SL-1010,General Medicine,Standard,2026-08-29,10:30,200,60,1
